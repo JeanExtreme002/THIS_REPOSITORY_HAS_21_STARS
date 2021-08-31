@@ -1,0 +1,16 @@
+{
+  "name": "this_repository_has_xxx_stars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "github-api": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Loui Bernard Silva de Jesus",
+  "license": "MIT"
+}
