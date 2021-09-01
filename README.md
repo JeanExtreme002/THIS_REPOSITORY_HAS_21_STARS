@@ -1,7 +1,7 @@
-# THIS REPOSITORY HAS {stars} STARS :star:
+# THIS REPOSITORY HAS 4 STARS :star:
 Click on :star: to see it in action :star_struck:
 
-##### <img width="60" src="{lastStargazerImage}"/> &nbsp; Thanks you [{lastStargazerName}](lastStargazerLink) for starring!
+##### <img width="60" src="https://avatars.githubusercontent.com/u/25744318?v=4"/> &nbsp; Thanks you [Rfferrao87](lastStargazerLink) for starring!
 
 # How does it work? :nerd_face:
 
@@ -13,4 +13,4 @@ When the program runs, the github token and repository name are passed to the ap
 
 <br/>
 
-That way I know this repository has {stars} stars :monocle_face:
+That way I know this repository has 4 stars :monocle_face:
