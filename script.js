@@ -33,16 +33,7 @@ async function main() {
 
 	const registeredStargazers = getRegisteredStargazers();
 	const stargazers = await repository._request('GET', `/repos/${repository.__fullname}/stargazers`, null);
-	let lastStargazer;
-
-	stargazers.data.forEach((stargazer) => {
-		const stargazerID = stargazer.id.toString();
-
-        if (registeredStargazers.indexOf(stargazerID) == -1) {
-			registeredStargazers.push(stargazerID);
-		    lastStargazer = stargazer;
-		}
-	});
+	const lastStargazer = stargazers.data[stargazers.data.length - 1];
 
 	updateStargazerDatabase(registeredStargazers.join(" "), lastStargazer.login);
 	updateReadMeFile(lastStargazer.login, lastStargazer.avatar_url, lastStargazer.html_url, stargazers_count);
