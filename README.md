@@ -1,4 +1,4 @@
-# THIS REPOSITORY HAS 3 STARS :star:
+# THIS REPOSITORY HAS 4 STARS :star:
 Click on :star: to see it in action :star_struck:
 
 # How does it work? :nerd_face:
@@ -11,4 +11,4 @@ When the program runs, the github token and repository name are passed to the ap
 
 <br/>
 
-That way I know this repository has 3 stars :monocle_face:
+That way I know this repository has 4 stars :monocle_face:
