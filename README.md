@@ -1,5 +1,7 @@
-# THIS REPOSITORY HAS 4 STARS :star:
+# THIS REPOSITORY HAS {stars} STARS :star:
 Click on :star: to see it in action :star_struck:
+
+##### <img width="60" src="{lastStargazerImage}"/> &nbsp; Thanks you [{lastStargazerName}](lastStargazerLink) for starring!
 
 # How does it work? :nerd_face:
 
@@ -7,8 +9,8 @@ This is an application created in NodeJS using the [`github-api`](https://www.np
 
 <br/>
 
-When the program runs, the github token and repository name are passed to the application and used to get access to the repository data. Then the repository is renamed and even this file is updated. 
+When the program runs, the github token and repository name are passed to the application and used to get access to the repository data. Then the repository is renamed and even this file is updated.
 
 <br/>
 
-That way I know this repository has 4 stars :monocle_face:
+That way I know this repository has {stars} stars :monocle_face:
