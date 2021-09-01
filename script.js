@@ -8,9 +8,9 @@ function updateRepositoryName(newRepositoryName) {
 
 function updateReadMeFile(stars) {
 	const readMeTemplate = fs.readFileSync("./README-Template.md").toString();
-	const readMeContent = readMeTemplate.replace("{stars}", stars);
+	const readMeContent = readMeTemplate.replaceAll("{stars}", stars);
 	const commitMessage = ":star: " + stars;
-	repository.writeFile("main", "./README.md", readMeContent, commitMessage);
+	repository.writeFile("main", "README.md", readMeContent, commitMessage);
 }
 
 repository.getDetails().then((details) => {
