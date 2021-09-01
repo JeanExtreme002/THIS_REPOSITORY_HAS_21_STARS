@@ -7,7 +7,7 @@ function updateRepositoryName(newRepositoryName) {
 }
 
 function updateReadMeFile(stars) {
-	const readMeTemplate = fs.readFileSync("README-Template.md").toString();
+	const readMeTemplate = fs.readFileSync("./README-Template.md").toString();
 	const readMeContent = readMeTemplate.replace("{stars}", stars);
 	const commitMessage = ":star: " + stars;
 	repository.writeFile("main", "./README.md", readMeContent, commitMessage);
@@ -15,5 +15,5 @@ function updateReadMeFile(stars) {
 
 repository.getDetails().then((details) => {
 	updateReadMeFile(details.data.stargazers_count);
-    updateRepositoryName("THIS_REPOSITORY_HAS_" + details.data.stargazers_count; + "_STARS");
+    updateRepositoryName("THIS_REPOSITORY_HAS_" + details.data.stargazers_count + "_STARS");
 });
