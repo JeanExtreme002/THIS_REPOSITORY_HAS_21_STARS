@@ -1,7 +1,7 @@
 # THIS REPOSITORY HAS {stars} STARS :star:
 Click on :star: to see it in action :star_struck:
 
-##### <img width="60" src="{lastStargazerImage}"/> &nbsp; Thanks you [{lastStargazerName}](lastStargazerLink) for starring!
+##### <img width="60" src="{lastStargazerImage}"/> &nbsp; Thank you [{lastStargazerName}](lastStargazerLink) for starring!
 
 # How does it work? :nerd_face:
 
