@@ -1,7 +1,7 @@
-# THIS REPOSITORY HAS 13 STARS :star:
+# THIS REPOSITORY HAS 14 STARS :star:
 Click on :star: and wait some seconds to see it in action :star_struck:
 
-##### <img width="60" src="https://avatars.githubusercontent.com/u/58360911?v=4"/> &nbsp; Hello [zeankundev](https://github.com/zeankundev). Thank you for starring! 
+##### <img width="60" src="https://avatars.githubusercontent.com/u/20407271?v=4"/> &nbsp; Hello [evelez7](https://github.com/evelez7). Thank you for starring! 
 
 # How does it work? :nerd_face:
 
@@ -11,4 +11,4 @@ This is an application created in NodeJS using the [`github-api`](https://www.np
 When the workflow runs, the github token and repository name are passed to the application and used to get access to the repository data. Then the repository is renamed and even this file is updated.
 <br/>
 
-That way I know this repository has 13 stars! :monocle_face:
+That way I know this repository has 14 stars! :monocle_face:
