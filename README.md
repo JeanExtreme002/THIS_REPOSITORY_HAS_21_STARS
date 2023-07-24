@@ -1,7 +1,7 @@
 # THIS REPOSITORY HAS 16 STARS :star:
 Click on :star: and wait some seconds to see it in action :star_struck:
 
-##### <img width="60" src="https://avatars.githubusercontent.com/u/119371214?v=4"/> &nbsp; Hello [JeanExtreme002-Escavador](https://github.com/JeanExtreme002-Escavador). Thank you for starring! 
+##### <img width="60" src="https://avatars.githubusercontent.com/u/119371214?v=4"/> &nbsp; Hello [WhiteH4tDude](https://github.com/WhiteH4tDude). Thank you for starring! 
 
 # How does it work? :nerd_face:
 
